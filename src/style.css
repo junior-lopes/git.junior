@@ -11,9 +11,9 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-text: rgb(255, 221, 213);
-    --color-bg: rgb(128, 0, 66);
-    --color-bg-accent: #2626a0;
+    --color-text: rgb(216, 213, 255);
+    --color-bg: rgb(0, 128, 0);
+    --color-bg-accent: #a04626;
   }
 }
 
